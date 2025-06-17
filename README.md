@@ -57,13 +57,13 @@ Performance was evaluated using **R² score**, residual analysis, and prediction
 ## Results
 
 - Achieved an **R² score of ~0.75**, indicating the model performed well in predicting the target on average.
-- The difference between the target and predicted values got dramatically higher during the last few observations which could be due to missing factors that could be contributing to the target value like 'Prior Damage' of the car which isn't provided or 'Model' which was dropped during the preprocessing.<br>
+- The difference between the target and predicted values got dramatically higher during the last few observations which could be due to missing factors that could be contributing to the target value like 'Prior Damage' of the car which isn't provided or 'Model' which was dropped during the preprocessing.<br><br>
 - How to improve the model?
 1. Use a different set of predictor variables.
 2. Remove a bigger part of the outliers.
 3. Use different kinds of transformations.
    
-## 📌 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
