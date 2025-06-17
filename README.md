@@ -6,6 +6,7 @@ This project applies **Linear Regression** to predict used car prices based on v
 
 - `Predicting Used Car Prices - Linear Regression.ipynb`: Main notebook containing the entire workflow.
 - `Used car prices.csv`: Dataset containing specifications and prices of used cars.
+- `requirements.txt`: Lists the necessary python packages.
 
 ## Dataset Overview
 
